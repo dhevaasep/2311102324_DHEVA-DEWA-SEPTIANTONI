@@ -3,21 +3,21 @@
 
 ## Dasar Teori
 
-###A. Pengertian Array<br/>
+### A. Pengertian Array<br/>
 Array atau larik sendiri di definisikan sebagai pemesanan alokasi memory yang berurutan. Definisi ini kurang cocok, karena terjadi ketidakakuratan antara struktur data dan representasinya, hampir selalu di implementasikan menggunakan memory berurutan tapi tidak selalu demikian. Semua elemem array bertipe sama. Array cocok untuk mengatur kumpulan data homogen yang ukuran atau jumlah maksimum elemennya diketahui sejak awal. Homogen adalah semua elemen array tertentu harus memiliki tipe data yang sama.Struktur array adalah kumpulan elemen-elemen data yang digabungkan menjadi suatu kesatuan yang memiliki tipe homogen (sama). Array diawali dari angka 0.
 
-###B. Karakteristik Array<br/>
+###  B. Karakteristik Array<br/>
 1. Mempunyai batasan dari pemesanan alokasi memori (bersifat statis).
 2. Mempunyai tipe data sama (bersifat homogen).
 3. Dapat diakses secara acak.
 
-###C. Deklarasi Array<br/>
+### C. Deklarasi Array<br/>
 Ada tiga hal yang harus diketahui dalam pendeklarasian, yaitu :
 1. Type data array.
 2. Nama variable array.
 3. Subkrip / index array.
 
-###D. Penggunaan Array<br/>
+### D. Penggunaan Array<br/>
 Pada dasarnya penggunaan array sangat luas tidak hanya digunakan pada bahasa pemrogaman. Contoh penggunaan array sebagai berikut :
 1. Array digunakan untuk suatu database, contoh : tabel.
 2. Array digunakan untuk operasi matematika seperti vektor.
