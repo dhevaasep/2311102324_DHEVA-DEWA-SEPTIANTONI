@@ -7,21 +7,21 @@ A. Pengertian Array
 Array atau larik sendiri di definisikan sebagai pemesanan alokasi memory yang berurutan. Definisi ini kurang cocok, karena terjadi ketidakakuratan antara struktur data dan representasinya, hampir selalu di implementasikan menggunakan memory berurutan tapi tidak selalu demikian. Semua elemem array bertipe sama. Array cocok untuk mengatur kumpulan data homogen yang ukuran atau jumlah maksimum elemennya diketahui sejak awal. Homogen adalah semua elemen array tertentu harus memiliki tipe data yang sama.Struktur array adalah kumpulan elemen-elemen data yang digabungkan menjadi suatu kesatuan yang memiliki tipe homogen (sama). Array diawali dari angka 0.
 
 B. Karakteristik Array :
-    1. Mempunyai batasan dari pemesanan alokasi memori (bersifat statis).
-    2. Mempunyai tipe data sama (bersifat homogen).
-    3. Dapat diakses secara acak.
+1. Mempunyai batasan dari pemesanan alokasi memori (bersifat statis).
+2. Mempunyai tipe data sama (bersifat homogen).
+3. Dapat diakses secara acak.
+
 C. Deklarasi Array :
 Ada tiga hal yang harus diketahui dalam pendeklarasian, yaitu :
+1. Type data array.
+2. Nama variable array.
+3. Subkrip / index array.
 
-    1. Type data array.
-    2. Nama variable array.
-    3. Subkrip / index array.
-    D. Penggunaan Array
+D. Penggunaan Array
 Pada dasarnya penggunaan array sangat luas tidak hanya digunakan pada bahasa pemrogaman. Contoh penggunaan array sebagai berikut :
-
-    1. Array digunakan untuk suatu database, contoh : tabel.
-    2. Array digunakan untuk operasi matematika seperti vektor.
-    3. Digunakan dalam bentuk struktur data lain, contohnya list.
+1. Array digunakan untuk suatu database, contoh : tabel.
+2. Array digunakan untuk operasi matematika seperti vektor.
+3. Digunakan dalam bentuk struktur data lain, contohnya list.
 E. Bentuk-Bentuk Array
 1. Array Satu Dimensi
     Array satu dimensi adalah kumpulan elemen identik yang hanya terdiri dari satu baris atau kolom alamat penyimpanan data (indeks). Elemen ini memiliki tipe data yang sama, namun isi elemen tersebut dapat berbeda. Bentuk umum : Tipe_data namaArray[n] = {elemen0, elemen1, elemen2,…..,n}; n = jumlah elemen contoh pada progam : int ukur[5] = {39, 40. 41, 38, 40}; · int adalah tipe data yang berupa bilangan bulat. · Ukur adalah nama variabel array. · [5] adalah ukuran untuk menyatakan jumlah maksimal elemen array.
