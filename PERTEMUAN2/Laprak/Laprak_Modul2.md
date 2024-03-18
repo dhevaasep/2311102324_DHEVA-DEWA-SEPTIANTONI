@@ -169,6 +169,7 @@ int main() {
 ```
 #### Output:
 ![Screenshot Output Unguided 1](output2-unguided1_Dheva.png)
+
 Setelah menerima input, program akan memisahkan angka-angka tersebut menjadi dua kelompok: angka genap dan angka ganjil. Kemudian, program akan menampilkan data array yang dimasukkan pengguna, angka-angka genap yang ditemukan, dan angka-angka ganjil yang ditemukan.
 
 Program meminta pengguna untuk memasukkan ukuran array (`Arr324`). Program melakukan alokasi memori dinamis untuk dua array, yaitu `dheva324` untuk menyimpan angka genap dan `ronaldo324` untuk menyimpan angka ganjil. Program meminta pengguna untuk memasukkan sejumlah angka sebanyak ukuran array yang telah ditentukan. Angka-angka ini dipisahkan oleh spasi. Selama memasukkan angka, program memeriksa apakah input yang dimasukkan valid. Jika tidak, program akan mencetak pesan kesalahan dan menghentikan program. Setiap angka yang dimasukkan akan diperiksa apakah genap atau ganjil. Jika genap, akan dimasukkan ke dalam array `dheva324` dan variabel `Genap324` akan bertambah satu. Jika ganjil, akan dimasukkan ke dalam array `ronaldo324` dan variabel `Ganjil324` akan bertambah satu.
