@@ -103,7 +103,7 @@ Operasi pada Queue melibatkan serangkaian fungsi yang memberikan kita kemampuan 
 - size() :menghitung jumlah elemen dalam queue. 
 
 ## E. CONTOH ILLUSTRASI QUEUE
-![CONTOH ILLUSTRASI QUEUE](queue_Dheva.png)
+![CONTOH_ILUSTRASI_QUEUE](queue_Dheva.png)
 
 
 ## Guided 
