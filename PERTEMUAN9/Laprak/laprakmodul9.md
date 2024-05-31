@@ -1400,47 +1400,47 @@ int main()
 ```
 #### Output:
 Pilih  1.  Buat Node Root
-![SS_Unguided2_Laprak9](output9-unguided2.1_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.1_Dheva.png)
 
 Pilih  2.  Insert Kiri
-![SS_Unguided2_Laprak9](output9-unguided2.2_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.2_Dheva.png)
 
 Pilih  3.  Insert Kanan
-![SS_Unguided2_Laprak9](output9-unguided2.3_Dheva)
-![SS_Unguided2_Laprak9](output9-unguided2.3.1_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.3_Dheva.png)
+![SS_Unguided2_Laprak9](output9-unguided2.3.1_Dheva.png)
 
 Pilih  4.  Update Node
-![SS_Unguided2_Laprak9](output9-unguided2.4_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.4_Dheva.png)
 
 Pilih  5.  Retrieve Node
-![SS_Unguided2_Laprak9](output9-unguided2.5_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.5_Dheva.png)
 
 Pilih  6.  Cari Node
-![SS_Unguided2_Laprak9](output9-unguided2.6_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.6_Dheva.png)
 
 Pilih  7.  Pre-order Traversal
-![SS_Unguided2_Laprak9](output9-unguided2.7_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.7_Dheva.png)
 
 Pilih  8.  In-order Traversal
-![SS_Unguided2_Laprak9](output9-unguided2.8_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.8_Dheva.png)
 
 Pilih  9.  Post-order Traversal
-![SS_Unguided2_Laprak9](output9-unguided2.9_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.9_Dheva.png)
 
 Pilih  12. Tampilkan Karakteristik Tree
-![SS_Unguided2_Laprak9](output9-unguided2.12_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.12_Dheva.png)
 
 Pilih  13. Tampilkan Child dan Descendant
-![SS_Unguided2_Laprak9](output9-unguided2.13_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.13_Dheva.png)
 
 Pilih  11. Hapus Subtree
-![SS_Unguided2_Laprak9](output9-unguided2.11_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.11_Dheva.png)
 
 Pilih  10. Hapus Tree
-![SS_Unguided2_Laprak9](output9-unguided2.10_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.10_Dheva.png)
 
 Pilih  0.  Keluar
-![SS_Unguided2_Laprak9](output9-unguided2.0_Dheva)
+![SS_Unguided2_Laprak9](output9-unguided2.0_Dheva.png)
 
 
 Kode di atas digunakan untuk implementasi Tree dalam C++. Program ini adalah Modifikasi Guided Tree diatas dengan program menu menggunakan input data tree dari user dan memberikan fungsi tambahan untuk menampilkan node child dan descendant dari node yang diinput kan.
