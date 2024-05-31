@@ -1400,46 +1400,60 @@ int main()
 ```
 #### Output:
 Pilih  1.  Buat Node Root
+
 ![SS_Unguided2_Laprak9](output9-unguided2.1_Dheva.png)
 
 Pilih  2.  Insert Kiri
+
 ![SS_Unguided2_Laprak9](output9-unguided2.2_Dheva.png)
 
 Pilih  3.  Insert Kanan
+
 ![SS_Unguided2_Laprak9](output9-unguided2.3_Dheva.png)
 ![SS_Unguided2_Laprak9](output9-unguided2.3.1_Dheva.png)
 
 Pilih  4.  Update Node
+
 ![SS_Unguided2_Laprak9](output9-unguided2.4_Dheva.png)
 
 Pilih  5.  Retrieve Node
+
 ![SS_Unguided2_Laprak9](output9-unguided2.5_Dheva.png)
 
 Pilih  6.  Cari Node
+
 ![SS_Unguided2_Laprak9](output9-unguided2.6_Dheva.png)
 
 Pilih  7.  Pre-order Traversal
+
 ![SS_Unguided2_Laprak9](output9-unguided2.7_Dheva.png)
 
 Pilih  8.  In-order Traversal
+
 ![SS_Unguided2_Laprak9](output9-unguided2.8_Dheva.png)
 
 Pilih  9.  Post-order Traversal
+
 ![SS_Unguided2_Laprak9](output9-unguided2.9_Dheva.png)
 
 Pilih  12. Tampilkan Karakteristik Tree
+
 ![SS_Unguided2_Laprak9](output9-unguided2.12_Dheva.png)
 
 Pilih  13. Tampilkan Child dan Descendant
+
 ![SS_Unguided2_Laprak9](output9-unguided2.13_Dheva.png)
 
 Pilih  11. Hapus Subtree
+
 ![SS_Unguided2_Laprak9](output9-unguided2.11_Dheva.png)
 
 Pilih  10. Hapus Tree
+
 ![SS_Unguided2_Laprak9](output9-unguided2.10_Dheva.png)
 
 Pilih  0.  Keluar
+
 ![SS_Unguided2_Laprak9](output9-unguided2.0_Dheva.png)
 
 
