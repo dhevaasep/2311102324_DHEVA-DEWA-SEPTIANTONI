@@ -53,7 +53,7 @@ void inputNama(string &nama) {
 void inputUmur(int &umur) {
     cout << "MASUKAN UMUR : ";
     while (!(cin >> umur) || umur < 0) {
-        cout << "Umur tidak valid, masukkan kembali: ";
+        cout << "Belum cukup umur, Silahkan beli offline bersama orang tua ";
         cin.clear();
         cin.ignore(numeric_limits<streamsize>::max(), '\n');
     }
